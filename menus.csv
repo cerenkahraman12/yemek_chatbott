@@ -1,0 +1,11 @@
+id,name,category,ingredients,price,tags,description
+1,Mercimek Çorbası,Çorba,"kırmızı mercimek, havuç, soğan, su, yağ",25,vegan;glutensiz,"Klasik Türk mercimek çorbası, hafif ve doyurucu."
+2,Ezogelin Çorbası,Çorba,"mercimek, bulgur, pirinç, salça, baharatlar",30,vejetaryen,"Baharatlı ve lezzetli çorba, özellikle kış günlerinde."
+3,Tavuk Şinitzel,Ana Yemek,"tavuk göğsü, un, yumurta, ekmek kırıntısı, yağ",65,et;gluten,"Çıtır tavuk, yanında patates püresiyle mükemmel gider."
+4,Izgara Köfte,Ana Yemek,"kıyma, ekmek içi, soğan, baharat",70,et,"Klasik ızgara köfte, yanında pilav ve salata ile."
+5,Menemen,Kahvaltı,"yumurta, domates, biber, yağ",35,vejetaryen,"Basit ve hızlı hazırlanan Türk usulü kahvaltı."
+6,Mantar Sote,Ana Yemek,"mantar, soğan, sarımsak, zeytinyağı",45,vegan,"Lezzetli, düşük kalorili ve sağlıklı bir ana yemek."
+7,Bulgur Pilavı,Ara Sıcak,"bulgur, soğan, salça, yağ",25,vegan;glutensiz,"Ana yemeklerin yanına mükemmel uyum sağlar."
+8,İmam Bayıldı,Ana Yemek,"patlıcan, soğan, sarımsak, domates, zeytinyağı",55,vegan,"Zeytinyağlı, hafif ve sağlıklı bir sebze yemeği."
+9,Makarna Napolitan,Ana Yemek,"makarna, domates sosu, fesleğen, zeytinyağı",40,vejetaryen,"Domates bazlı soslu İtalyan tarzı makarna."
+10,Kuru Fasulye,Ana Yemek,"kuru fasulye, soğan, salça, yağ",50,vegan;glutensiz,"Türk mutfağının vazgeçilmezlerinden, pilavla mükemmel."
