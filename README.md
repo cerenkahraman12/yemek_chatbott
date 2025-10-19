@@ -55,13 +55,14 @@ Bu veri seti, örnek menü kayıtlarından oluşturulmuş ve chatbot’un test e
 ---
 
 ## 🧩 Proje Dosya Yapısı
+```
 yemek_chatbot/
 │
-├── app.py # Streamlit arayüz dosyası
-├── ingest_local.py # Yerel embedding ile veritabanı oluşturma
-├── qa_local.py # Sorgu + Gemini yanıt üretimi
-├── menus.csv # Yemek veri seti
-├── chroma_db_local/ # Yerel vektör veritabanı
-├── requirements.txt # Gerekli Python kütüphaneleri
-└── .env # Gemini API anahtarı
-# Yemek_ChatBot
+├── app.py                 # Streamlit arayüz dosyası
+├── ingest_local.py        # Yerel embedding ile veritabanı oluşturma
+├── qa_local.py            # Sorgu + Gemini yanıt üretimi
+├── menus.csv              # Yemek veri seti
+├── chroma_db_local/       # Yerel vektör veritabanı
+├── requirements.txt       # Gerekli Python kütüphaneleri
+└── .env                   # Gemini API anahtarı
+```
